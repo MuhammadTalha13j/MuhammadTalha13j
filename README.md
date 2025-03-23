@@ -1,6 +1,7 @@
 👋 Hi, I’m Muhammad Talha
 
-🌱 I’m currently pursuing a BS in Artificial Intelligence at UMT (Class of 2025)
+🌱 I’m currently pursuing a BS in Artificial Intelligence at UMT
+
 Specializing in:
 
 NLP
