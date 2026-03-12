@@ -1,39 +1,126 @@
-👋 Hi, I’m Muhammad Talha
+<h1 align="center">👋 Hi, I'm Muhammad Talha</h1>
 
-🌱 I’m currently pursuing a BS in Artificial Intelligence at UMT
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammad+Musab!;AI%2FML+Engineer;AI+Engineer+Intern+at+Solutyics;Building+Intelligent+AI+Systems" alt="Typing Animation" />
+</p>
 
-Specializing in:
+---
 
-NLP
+<h3 align="center">💻 AI/ML Engineer | 🤖 Building Smart Solutions with Intelligence</h3>
 
-Computer Vision (CV)
+<p align="center">
+ <a href="mailto:muhammad.talha13j@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="https://linkedin.com/in/syed-muhammad-talha-hashmi-data-scientist" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://github.com/MuhammadTalha13j" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-Python
+---
 
-Machine Learning (ML)
+## 🚀 About Me
 
-Deep Learning (DL)
+> _"Turning data into intelligence and intelligence into action."_
 
-AI/ML
+I'm an **AI Engineer and Data Scientist**, passionate about designing intelligent systems that solve real-world problems.  
+I’m currently **learning advanced AI systems and sharpening my skills** in model optimization, intelligent automation, and RAG-based applications.
 
-NoSQL
+I specialize in:
 
-SQL
+- 🧠 **Machine Learning & Deep Learning**
+- 🗣️ **Natural Language Processing**
+- 👁️ **Computer Vision**
+- ⚙️ **Generative AI & Intelligent Automation**
 
-Neo4j
+---
 
-Data Science
+## 🔥 Highlights
 
-A passionate student pursuing a Bachelor's in Artificial Intelligence and Cybersecurity.
-My journey is fueled by a strong drive to innovate and leverage technology to address real-world challenges.
-As a dedicated student with a flair for coding and developing practical applications, I have worked on numerous
-projects that showcase not just my technical skills, but also my commitment to creating impactful solutions through technology.
+- 🧠 **Expertise**: ML · DL · NLP · CV  
+- ⚙️ **Project**: Knowledge-Transfer-Agent · AI-Powered News Sentiment Automation  
+- 🤝 **Collab**: Real-world AI Applications  
+- 🚀 **Learning Focus**: Deployment & Optimization  
+- 📬 **Reach Me**: mmusab.yaqoob@gmail.com  
 
-The field of Artificial Intelligence offers endless possibilities, and I am excited to be at the forefront of this rapidly,
-evolving industry. My academic path has been marked by a continual search for new challenges and opportunities to expand my knowledge.
-The projects I’ve completed serve as a reflection of my dedication to innovation and my desire to make a positive contribution to the world through AI.
+---
 
-As I continue on this exciting journey, I remain open to exploring new horizons and pushing the boundaries of what’s possible with Artificial Intelligence.
+## 🧠 Skills & Technologies
 
-📫 How to reach me: Email - muhammad.talha13j@gmail.com
+### 🐍 Languages & Libraries
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3C5280?style=for-the-badge)
+
+### 🧠 AI & ML
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🧰 Tools & Platforms
+
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gradio](https://img.shields.io/badge/-Gradio-FF4B4B?style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-181717?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+## 🧩 Featured Projects
+
+### 🚀 [Knowledge-Transfer-Agent](https://github.com/muhammadmusabyaqoob/Knowledge-Transfer-Agent)
+An **AI-based onboarding system** using **RAG**, **FastAPI**, **Gradio**, and **LangChain**, designed to enable smooth knowledge handover between employees.  
+Empowers new hires to learn faster via **document-based Q&A** and **AI-powered knowledge retrieval**.
+
+### ⚙️ [AI-Powered News Sentiment Automation](https://github.com/muhammadmusabyaqoob/AI-Powered-News-Sentiment-Automation)
+A complete **n8n automation workflow** that integrates **Gemini, NewsAPI, Google Sheets, and Gmail** to automatically extract email topics, fetch related news, perform sentiment analysis, and send daily AI summaries.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+ <img src="https://github.com/MuhammadTalha13j" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmusabyaqoob&layout=compact&theme=react&cache_seconds=1800" alt="Top Languages" />
+</p>
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmusabyaqoob&theme=react" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+📧 **Email**: [muhammad.talha13j@gmail.com](mailto:muhammad.talha13j@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/syed-muhammad-talha-hashmi-data-scientist](https://www.linkedin.com/in/syed-muhammad-talha-hashmi-data-scientist/)  
+💻 **GitHub**: [github.com/MuhammadTalha13j](https://github.com/MuhammadTalha13j)
+
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=muhammadmusabyaqoob&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/muhammadmusabyaqoob/muhammadmusabyaqoob/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## ⭐ Thanks for Visiting!
+
+If you like my work, please ⭐ star my repositories.  
+Let’s build something impactful together! 🚀
+
+> _"AI: making machines smarter and humans sleep less."_
