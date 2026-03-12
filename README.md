@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Muhammad Talha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammad+Musab!;AI%2FML+Engineer;AI+Engineer+Intern+at+Solutyics;Building+Intelligent+AI+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammad+Talha!;AI%2FML+Engineer;AI+Engineer+Intern+at+Solutyics;Building+Intelligent+AI+Systems" alt="Typing Animation" />
 </p>
 
 ---
@@ -124,3 +124,4 @@ If you like my work, please ⭐ star my repositories.
 Let’s build something impactful together! 🚀
 
 > _"AI: making machines smarter and humans sleep less."_
+
