@@ -38,7 +38,7 @@ I specialize in:
 - ⚙️ **Project**: Knowledge-Transfer-Agent · AI-Powered News Sentiment Automation  
 - 🤝 **Collab**: Real-world AI Applications  
 - 🚀 **Learning Focus**: Deployment & Optimization  
-- 📬 **Reach Me**: mmusab.yaqoob@gmail.com  
+- 📬 **Reach Me**: muhammad.talha13j@gmail.com  
 
 ---
 
@@ -72,18 +72,6 @@ I specialize in:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-181717?style=for-the-badge&logo=supabase&logoColor=white)
 
----
-
-## 🧩 Featured Projects
-
-### 🚀 [Knowledge-Transfer-Agent](https://github.com/muhammadmusabyaqoob/Knowledge-Transfer-Agent)
-An **AI-based onboarding system** using **RAG**, **FastAPI**, **Gradio**, and **LangChain**, designed to enable smooth knowledge handover between employees.  
-Empowers new hires to learn faster via **document-based Q&A** and **AI-powered knowledge retrieval**.
-
-### ⚙️ [AI-Powered News Sentiment Automation](https://github.com/muhammadmusabyaqoob/AI-Powered-News-Sentiment-Automation)
-A complete **n8n automation workflow** that integrates **Gemini, NewsAPI, Google Sheets, and Gmail** to automatically extract email topics, fetch related news, perform sentiment analysis, and send daily AI summaries.
-
----
 
 ## 📊 GitHub Stats
 
@@ -124,4 +112,5 @@ If you like my work, please ⭐ star my repositories.
 Let’s build something impactful together! 🚀
 
 > _"AI: making machines smarter and humans sleep less."_
+
 
